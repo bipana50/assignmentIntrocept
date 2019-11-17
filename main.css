@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+
+.container{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.container .snippet .question{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.container h1{
+    margin-bottom: 50px;
+}
+.container .snippet{
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+.container .snippet div{
+    margin-bottom: 20px;
+}
